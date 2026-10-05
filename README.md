@@ -10,9 +10,9 @@
 
 Binaries are avaliable in releases page
 
-[Download for linux]()
+[Download for linux](https://github.com/shantanuparte/Git-Info/releases/download/v1.0/gitinfo)
 
-[Download for Windows]()
+[Download for Windows](https://github.com/shantanuparte/Git-Info/releases/download/v1.0/gitinfo.exe)
 
 Run by 
 ```
